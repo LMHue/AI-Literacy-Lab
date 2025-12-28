@@ -35,7 +35,7 @@ Vinh T. Nguyen, PhD: Dr. Vinh is currently a lecturer at the Faculty of Informat
 1. Paper (published)
 2. Paper (in progress)
 ### 4. Luong Thi Minh Hue (started from June 2024)
-1. Paper (published)
+1. **[Journal]** Luong, Thi-Minh-Hue, and Nguyen, The-Vinh. "_NL2Vis Transformed: From Linguistic Abstraction to Visual Specification in the Generative AI Era_." SN Computer Science, vol. 7, article no. 19, 2026. https://doi.org/10.1007/s42979-025-04636-4 **(Published)**
 2. Paper (in progress)
 ### 5. Đỗ Thị Phượng (started from June 2024)
 1. Paper (published)
