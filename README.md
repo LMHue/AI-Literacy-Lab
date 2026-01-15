@@ -35,7 +35,7 @@ Vinh T. Nguyen, PhD: Dr. Vinh is currently a lecturer at the Faculty of Informat
 1. Paper (published)
 2. Paper (in progress)
 ### 4. Luong Thi Minh Hue (started from June 2024)
-1. Paper (published)
+1. Paper (published) -------------------hhhhhhhhh
 2. Paper (in progress)
 ### 5. Đỗ Thị Phượng (started from June 2024)
 1. Paper (published)
