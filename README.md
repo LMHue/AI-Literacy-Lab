@@ -35,8 +35,8 @@ Vinh T. Nguyen, PhD: Dr. Vinh is currently a lecturer at the Faculty of Informat
 1. Paper (published)
 2. Paper (in progress)
 ### 4. Luong Thi Minh Hue (started from June 2024)
-1. Paper (published)
-2. Paper (in progress)
+1. **[Conference]** Luong, Thi Minh-Hue, Quach, Xuan-Truong, Nguyen, The-Vinh. VizAgent: Towards an Intelligent and Versatile Data Visualization Framework Powered by Large Language Models, Proceedings of ICTA 2024, vol. 1205, pp. 89–97, Springer, 2025. https://doi.org/10.1007/978-3-031-80943-9_10. **(Published)**
+3. Paper (in progress)
 ### 5. Đỗ Thị Phượng (started from June 2024)
 1. Paper (published)
 2. Paper (in progress)
